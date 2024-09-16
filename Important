@@ -1,0 +1,7 @@
+git config --list
+git status
+git add   git add *.extension
+git commit -m "comments"  or git commit -a "to add more"
+git diff <file name>
+Use .gitignore to ignore files
+
